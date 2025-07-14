@@ -186,3 +186,13 @@ class CygnisSounds : HDSkin
 		PainSound "player/guncaster/pain";
 	}
 }
+class SabreanUnscaled : HDSkin{
+	default{
+		Scale 0.35;
+	}
+	states{
+	spawn:walk A 0;stop;
+	crouch:walk A 0;stop;
+	fist:SHTF A 0;stop;
+	}
+}
