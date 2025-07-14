@@ -196,3 +196,21 @@ class SabreanUnscaled : HDSkin{
 	fist:SHTF A 0;stop;
 	}
 }
+
+class QCDESam : HDSkin{
+	Default{
+	Scale 0.5;
+	hdskin.SoundClass "sam";
+	hdskin.TauntSound "player/sam/taunts";
+	hdskin.XDeathSound "player/sam/xdeath";
+	hdskin.LandSound "player/sam/land";
+	hdskin.MedSound "player/sam/meds";
+	DeathSound "player/sam/death";
+	PainSound "player/sam/pain";
+	}
+	states{
+	spawn:QP28 A 0;stop;
+	crouch:QP28 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}

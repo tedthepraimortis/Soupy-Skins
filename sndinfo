@@ -206,3 +206,51 @@ $random player/countrycide/taunt
 {
 	player/countrycide/taunt1 player/countrycide/taunt2 player/countrycide/taunt3
 }
+
+// Sam
+// Taunts
+$random player/sam/taunts {player/sam/taunt1 player/sam/taunt2 player/sam/taunt3 player/sam/taunt4 player/sam/taunt5 player/sam/taunt6 player/sam/taunt7 player/sam/taunt8 player/sam/taunt9 player/sam/taunt10 player/sam/taunt11 player/sam/taunt12 player/sam/taunt13 player/sam/taunt14 player/sam/taunt15 player/sam/taunt16 player/sam/taunt17 player/sam/taunt18 player/sam/taunt19 player/sam/taunt20 player/sam/taunt21 player/sam/taunt22}
+player/sam/taunt1 "Sounds/sam/taunts/sam_taunt1.ogg"
+player/sam/taunt2 "Sounds/sam/taunts/sam_taunt2.ogg"
+player/sam/taunt3 "Sounds/sam/taunts/sam_taunt3.ogg"
+player/sam/taunt4 "Sounds/sam/taunts/sam_taunt4.ogg"
+player/sam/taunt5 "Sounds/sam/taunts/sam_taunt5.ogg"
+player/sam/taunt6 "Sounds/sam/taunts/sam_taunt6.ogg"
+player/sam/taunt7 "Sounds/sam/taunts/sam_taunt7.ogg"
+player/sam/taunt8 "Sounds/sam/taunts/sam_taunt8.ogg"
+player/sam/taunt9 "Sounds/sam/taunts/sam_taunt9.ogg"
+player/sam/taunt10 "Sounds/sam/taunts/sam_taunt10.ogg"
+player/sam/taunt11 "Sounds/sam/taunts/sam_taunt11.ogg"
+player/sam/taunt12 "Sounds/sam/taunts/sam_taunt12.ogg"
+player/sam/taunt13 "Sounds/sam/taunts/sam_taunt13.ogg"
+player/sam/taunt14 "Sounds/sam/taunts/sam_taunt14.ogg"
+player/sam/taunt15 "Sounds/sam/taunts/sam_taunt15.ogg"
+player/sam/taunt16 "Sounds/sam/taunts/sam_taunt16.ogg"
+player/sam/taunt17 "Sounds/sam/taunts/sam_taunt17.ogg"
+player/sam/taunt18 "Sounds/sam/taunts/sam_taunt18.ogg"
+player/sam/taunt19 "Sounds/sam/taunts/sam_taunt19.ogg"
+player/sam/taunt20 "Sounds/sam/taunts/sam_taunt20.ogg"
+player/sam/taunt21 "Sounds/sam/taunts/sam_taunt21.ogg"
+player/sam/taunt22 "Sounds/sam/taunts/sam_taunt22.ogg"
+
+// Land
+player/sam/land "Sounds/sam/land/sam_land.ogg"
+
+// Meds
+player/sam/meds "Sounds/Sam/Meds/sam_meds.ogg"
+
+// xdeath
+player/sam/xdeath "Sounds/Sam/xdeath/sam_xdeath.ogg"
+$alias player/sam/death player/sam/xdeath
+
+// Pain
+$random player/sam/pain {player/sam/pain1 player/sam/pain2 player/sam/pain3}
+player/sam/pain1 "Sounds/Sam/Pain/sam_pain1.ogg"
+player/sam/pain2 "Sounds/Sam/Pain/sam_pain2.ogg"
+player/sam/pain3 "Sounds/Sam/Pain/sam_pain3.ogg"
+
+//thanks ted
+// Jump
+$random player/sam/jump {player/sam/jump1 player/sam/jump2}
+player/sam/jump1 "sounds/sam/jump/sam_jump1.ogg"
+player/sam/jump2 "sounds/sam/jump/sam_jump2.ogg"
