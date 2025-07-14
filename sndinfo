@@ -1,0 +1,208 @@
+/*
+*
+*	Guncaster Durrgon
+*
+*/
+
+player/guncaster/taunt1		"sounds/Cygnis/taunts/guncaster_taunt1.ogg"
+player/guncaster/taunt2		"sounds/Cygnis/taunts/guncaster_taunt2.ogg"
+player/guncaster/taunt3		"sounds/Cygnis/taunts/guncaster_taunt3.ogg"
+player/guncaster/taunt4		"sounds/Cygnis/taunts/guncaster_taunt4.ogg"
+player/guncaster/taunt5		"sounds/Cygnis/taunts/guncaster_taunt5.ogg"
+player/guncaster/taunt6		"sounds/Cygnis/taunts/guncaster_taunt6.ogg"
+player/guncaster/taunt7		"sounds/Cygnis/taunts/guncaster_taunt7.ogg"
+player/guncaster/taunt8		"sounds/Cygnis/taunts/guncaster_taunt8.ogg"
+player/guncaster/taunt9		"sounds/Cygnis/taunts/guncaster_taunt9.ogg"
+player/guncaster/taunt10	"sounds/Cygnis/taunts/guncaster_taunt10.ogg"
+player/guncaster/taunt11	"sounds/Cygnis/taunts/guncaster_taunt11.ogg"
+player/guncaster/taunt12	"sounds/Cygnis/taunts/guncaster_taunt12.ogg"
+player/guncaster/taunt13	"sounds/Cygnis/taunts/guncaster_taunt13.ogg"
+player/guncaster/taunt14	"sounds/Cygnis/taunts/guncaster_taunt14.ogg"
+player/guncaster/taunt15	"sounds/Cygnis/taunts/guncaster_taunt15.ogg"
+player/guncaster/taunt16	"sounds/Cygnis/taunts/guncaster_taunt16.ogg"
+player/guncaster/taunt17	"sounds/Cygnis/taunts/guncaster_taunt17.ogg"
+player/guncaster/taunt18	"sounds/Cygnis/taunts/guncaster_taunt18.ogg"
+player/guncaster/taunt19	"sounds/Cygnis/taunts/guncaster_taunt19.ogg"
+player/guncaster/taunt20	"sounds/Cygnis/taunts/guncaster_taunt20.ogg"
+player/guncaster/taunt21	"sounds/Cygnis/taunts/guncaster_taunt21.ogg"
+player/guncaster/taunt22	"sounds/Cygnis/taunts/guncaster_taunt22.ogg"
+player/guncaster/taunt23	"sounds/Cygnis/taunts/guncaster_taunt23.ogg"
+player/guncaster/taunt24	"sounds/Cygnis/taunts/guncaster_taunt24.ogg"
+player/guncaster/taunt25	"sounds/Cygnis/taunts/guncaster_taunt25.ogg"
+player/guncaster/taunt26	"sounds/Cygnis/taunts/guncaster_taunt26.ogg"
+player/guncaster/taunt27	"sounds/Cygnis/taunts/guncaster_taunt27.ogg"
+player/guncaster/taunt28	"sounds/Cygnis/taunts/guncaster_taunt28.ogg"
+player/guncaster/taunt29	"sounds/Cygnis/taunts/guncaster_taunt29.ogg"
+player/guncaster/taunt30	"sounds/Cygnis/taunts/guncaster_taunt30.ogg"
+player/guncaster/taunt31	"sounds/Cygnis/taunts/guncaster_taunt31.ogg"
+player/guncaster/taunt32	"sounds/Cygnis/taunts/guncaster_taunt32.ogg"
+player/guncaster/taunt33	"sounds/Cygnis/taunts/guncaster_taunt33.ogg"
+player/guncaster/taunt34	"sounds/Cygnis/taunts/guncaster_taunt34.ogg"
+player/guncaster/taunt35	"sounds/Cygnis/taunts/guncaster_taunt35.ogg"
+player/guncaster/taunt36	"sounds/Cygnis/taunts/guncaster_taunt36.ogg"
+player/guncaster/taunt37	"sounds/Cygnis/taunts/guncaster_taunt37.ogg"
+
+$random player/guncaster/taunt
+{
+	player/guncaster/taunt1 player/guncaster/taunt2 player/guncaster/taunt3 player/guncaster/taunt4 player/guncaster/taunt5
+	player/guncaster/taunt6 player/guncaster/taunt7 player/guncaster/taunt8 player/guncaster/taunt9 player/guncaster/taunt10
+	player/guncaster/taunt11 player/guncaster/taunt12 player/guncaster/taunt13 player/guncaster/taunt14 player/guncaster/taunt15
+	player/guncaster/taunt16 player/guncaster/taunt17 player/guncaster/taunt18 player/guncaster/taunt19 player/guncaster/taunt20
+	player/guncaster/taunt21 player/guncaster/taunt22 player/guncaster/taunt23 player/guncaster/taunt24 player/guncaster/taunt25
+	player/guncaster/taunt26 player/guncaster/taunt27 player/guncaster/taunt28 player/guncaster/taunt29 player/guncaster/taunt30
+	player/guncaster/taunt31 player/guncaster/taunt32 player/guncaster/taunt33 player/guncaster/taunt34 player/guncaster/taunt35
+	player/guncaster/taunt36 player/guncaster/taunt37
+}
+
+player/guncaster/xdeath	"sounds/Cygnis/guncaster_xdeath.ogg"
+
+player/guncaster/grunt1	"sounds/Cygnis/guncaster_grunt1.ogg"
+player/guncaster/grunt2	"sounds/Cygnis/guncaster_grunt2.ogg"
+player/guncaster/grunt3	"sounds/Cygnis/guncaster_grunt3.ogg"
+player/guncaster/grunt4	"sounds/Cygnis/guncaster_grunt4.ogg"
+
+$random player/guncaster/grunt
+{
+	player/guncaster/grunt1 player/guncaster/grunt2 player/guncaster/grunt3 player/guncaster/grunt4
+}
+
+player/guncaster/land	"sounds/Cygnis/guncaster_land.ogg"
+
+player/guncaster/meds1	"sounds/Cygnis/guncaster_meds1.ogg"
+player/guncaster/meds2	"sounds/Cygnis/guncaster_meds2.ogg"
+player/guncaster/meds3	"sounds/Cygnis/guncaster_meds3.ogg"
+player/guncaster/meds4	"sounds/Cygnis/guncaster_meds4.ogg"
+player/guncaster/meds5	"sounds/Cygnis/guncaster_meds5.ogg"
+
+$random player/guncaster/meds
+{
+	player/guncaster/meds1 player/guncaster/meds2 player/guncaster/meds3 player/guncaster/meds4 player/guncaster/meds5
+}
+
+player/guncaster/death1	"sounds/Cygnis/guncaster_death1.ogg"
+player/guncaster/death2	"sounds/Cygnis/guncaster_death2.ogg"
+
+$random player/guncaster/death
+{
+	player/guncaster/death1 player/guncaster/death2
+}
+
+player/guncaster/pain1	"sounds/Cygnis/guncaster_pain1.ogg"
+player/guncaster/pain2	"sounds/Cygnis/guncaster_pain2.ogg"
+player/guncaster/pain3	"sounds/Cygnis/guncaster_pain3.ogg"
+
+$random player/guncaster/pain
+{
+	player/guncaster/pain1 player/guncaster/pain2 player/guncaster/pain3
+}
+
+$random player/guncaster/footsteps{
+	player/guncaster/step1
+	player/guncaster/step2
+	player/guncaster/step3
+	player/guncaster/step4
+	player/guncaster/step5
+	player/guncaster/step6
+	player/guncaster/step7
+	player/guncaster/step8
+	player/guncaster/step9
+	player/guncaster/step10
+	player/guncaster/step11
+	player/guncaster/step12
+	player/guncaster/step13
+	player/guncaster/step14
+	player/guncaster/step15
+	player/guncaster/step16
+	player/guncaster/step17
+	player/guncaster/step18
+	player/guncaster/step19
+	player/guncaster/step20
+}
+
+player/guncaster/step1 "Sounds/Cygnis/Footsteps/GCMOVE1.ogg"
+player/guncaster/step2 "Sounds/Cygnis/Footsteps/GCMOVE2.ogg"
+player/guncaster/step3 "Sounds/Cygnis/Footsteps/GCMOVE3.ogg"
+player/guncaster/step4 "Sounds/Cygnis/Footsteps/GCMOVE4.ogg"
+player/guncaster/step5 "Sounds/Cygnis/Footsteps/GCMOVE5.ogg"
+player/guncaster/step6 "Sounds/Cygnis/Footsteps/GCMOVE6.ogg"
+player/guncaster/step7 "Sounds/Cygnis/Footsteps/GCMOVE7.ogg"
+player/guncaster/step8 "Sounds/Cygnis/Footsteps/GCMOVE8.ogg"
+player/guncaster/step9 "Sounds/Cygnis/Footsteps/GCMOVE9.ogg"
+player/guncaster/step10 "Sounds/Cygnis/Footsteps/GCMOVE10.ogg"
+player/guncaster/step11 "Sounds/Cygnis/Footsteps/GCMOVE11.ogg"
+player/guncaster/step12 "Sounds/Cygnis/Footsteps/GCMOVE12.ogg"
+player/guncaster/step13 "Sounds/Cygnis/Footsteps/GCMOVE13.ogg"
+player/guncaster/step14 "Sounds/Cygnis/Footsteps/GCMOVE14.ogg"
+player/guncaster/step15 "Sounds/Cygnis/Footsteps/GCMOVE15.ogg"
+player/guncaster/step16 "Sounds/Cygnis/Footsteps/GCMOVE16.ogg"
+player/guncaster/step17 "Sounds/Cygnis/Footsteps/GCMOVE17.ogg"
+player/guncaster/step18 "Sounds/Cygnis/Footsteps/GCMOVE18.ogg"
+player/guncaster/step19 "Sounds/Cygnis/Footsteps/GCMOVE19.ogg"
+player/guncaster/step20 "Sounds/Cygnis/Footsteps/GCMOVE20.ogg"
+
+$volume player/guncaster/taunt 0.5
+$volume player/guncaster/pain 0.5
+$volume player/guncaster/death 0.5
+$volume player/guncaster/meds 0.5
+$volume player/guncaster/land 0.5
+$volume player/guncaster/grunt 0.5
+$volume player/guncaster/xdeath 0.5
+
+/*
+*
+*	Countrycide Guy
+*
+*/
+
+$random player/countrycide/ccfootsteps{
+	player/countrycide/ccwoodstep1
+	player/countrycide/ccwoodstep2
+}
+
+$random player/countrycide/ccfootstepswet{
+	player/countrycide/ccwaterstep1
+	player/countrycide/ccwaterstep2
+}
+
+player/countrycide/ccwoodstep1 "Sounds/countrycide/Footsteps/CCMove_wood1.wav"
+player/countrycide/ccwoodstep2 "Sounds/countrycide/Footsteps/CCMove_wood2.wav"
+player/countrycide/ccwaterstep1 "Sounds/countrycide/Footsteps/CCMove_water1.wav"
+player/countrycide/ccwaterstep2 "Sounds/countrycide/Footsteps/CCMove_water2.wav"
+
+$volume player/countrycide/ccfootsteps 0.5
+$volume player/countrycide/ccfootstepswet 0.5
+
+player/countrycide/pain1	"sounds/countrycide/Countrycideguy_pain1.wav"
+player/countrycide/pain2	"sounds/countrycide/Countrycideguy_pain2.wav"
+player/countrycide/pain3	"sounds/countrycide/Countrycideguy_pain3.wav"
+player/countrycide/pain4	"sounds/countrycide/Countrycideguy_pain4.wav"
+player/countrycide/pain5	"sounds/countrycide/Countrycideguy_pain5.wav"
+player/countrycide/pain6	"sounds/countrycide/Countrycideguy_pain6.wav"
+player/countrycide/pain7	"sounds/countrycide/Countrycideguy_pain7.wav"
+
+$random player/countrycide/pain
+{
+	player/countrycide/pain1 player/countrycide/pain2 player/countrycide/pain3 player/countrycide/pain4 player/countrycide/pain5 player/countrycide/pain6 player/countrycide/pain7
+}
+
+player/countrycide/death1	"sounds/countrycide/Countrycideguy_death1.wav"
+player/countrycide/death2	"sounds/countrycide/Countrycideguy_death2.wav"
+player/countrycide/death3	"sounds/countrycide/Countrycideguy_death3.wav"
+
+$random player/countrycide/death
+{
+	player/countrycide/death1 player/countrycide/death2 player/countrycide/death3
+}
+
+player/countrycide/taunt1	"sounds/countrycide/Countrycideguy_taunt1.wav"
+player/countrycide/taunt2	"sounds/countrycide/Countrycideguy_taunt2.wav"
+player/countrycide/taunt3	"sounds/countrycide/Countrycideguy_taunt3.wav"
+
+$volume player/countrycide/taunt1 1.5
+$volume player/countrycide/taunt2 1.5
+$volume player/countrycide/taunt3 1.5
+
+$random player/countrycide/taunt
+{
+	player/countrycide/taunt1 player/countrycide/taunt2 player/countrycide/taunt3
+}
