@@ -195,7 +195,7 @@ class QCDESam : HDSkin{
 
 class QCDECaleb : HDSkin{
 	Default{
-	Scale 0.5;
+	Scale 0.45;
 	hdskin.SoundClass "QCDECaleb";
 	hdskin.TauntSound "player/caleb/taunts";
 	hdskin.XDeathSound "player/caleb/xdeath";
@@ -235,11 +235,28 @@ class QCDEDoomSlayer : HDSkin{
 	hdskin.XDeathSound "player/doomslayer/xdeath";
 	hdskin.MedSound "player/doomslayer/meds";
 	DeathSound "player/doomslayer/death";
-	PainSound "player/doomslayer/pain";
 	}
 	states{
 	spawn:QP02 A 0;stop;
 	crouch:QP02 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
+
+class QCDEDukeNukem : HDSkin{
+	Default{
+	Scale 0.65;
+	hdskin.SoundClass "QCDEDukeNukem";
+	hdskin.TauntSound "player/duke/taunts";
+	hdskin.XDeathSound "player/duke/xdeath";
+	hdskin.LandSound "player/duke/land";
+	hdskin.MedSound "player/duke/meds";
+	DeathSound "player/duke/death";
+	PainSound "player/duke/pain";
+	}
+	states{
+	spawn:QP14 A 0;stop;
+	crouch:QP14 A 0;stop;
 	fist:shtf A 0;stop;
 	}
 }

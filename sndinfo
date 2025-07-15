@@ -355,3 +355,43 @@ player/doomslayer/xdeath3 "Sounds/QCDEDoomSlayer/XDeath3.ogg"
 
 $alias player/doomslayer/death player/doomslayer/xdeath
 player/doomslayer/meds "Sounds/QCDEDoomSlayer/Oof.ogg"
+
+// Dukey Nukey
+$random player/duke/taunts {player/duke/taunt1 player/duke/taunt2 player/duke/taunt3 player/duke/taunt4 player/duke/taunt5 player/duke/taunt6 player/duke/taunt7 player/duke/taunt8 player/duke/taunt9 player/duke/taunt10 player/duke/taunt11 player/duke/taunt12 player/duke/taunt13 player/duke/taunt14 player/duke/taunt15 player/duke/taunt16 player/duke/taunt17 player/duke/taunt18 player/duke/taunt19 player/duke/taunt20 player/duke/taunt21 player/duke/taunt22 player/duke/taunt23}
+player/duke/taunt1 "Sounds/QCDEDukeNukem/DukeNukemTaunt01.ogg"
+player/duke/taunt2 "Sounds/QCDEDukeNukem/DukeNukemTaunt02.ogg"
+player/duke/taunt3 "Sounds/QCDEDukeNukem/DukeNukemTaunt03.ogg"
+player/duke/taunt4 "Sounds/QCDEDukeNukem/DukeNukemTaunt04.ogg"
+player/duke/taunt5 "Sounds/QCDEDukeNukem/DukeNukemTaunt05.ogg"
+player/duke/taunt6 "Sounds/QCDEDukeNukem/DukeNukemTaunt06.ogg"
+player/duke/taunt7 "Sounds/QCDEDukeNukem/DukeNukemTaunt07.ogg"
+player/duke/taunt8 "Sounds/QCDEDukeNukem/DukeNukemTaunt08.ogg"
+player/duke/taunt9 "Sounds/QCDEDukeNukem/DukeNukemTaunt09.ogg"
+player/duke/taunt10 "Sounds/QCDEDukeNukem/DukeNukemTaunt10.ogg"
+player/duke/taunt11 "Sounds/QCDEDukeNukem/DukeNukemTaunt11.ogg"
+player/duke/taunt12 "Sounds/QCDEDukeNukem/DukeNukemTaunt12.ogg"
+player/duke/taunt13 "Sounds/QCDEDukeNukem/DukeNukemTaunt13.ogg"
+player/duke/taunt14 "Sounds/QCDEDukeNukem/DukeNukemTaunt14.ogg"
+player/duke/taunt15 "Sounds/QCDEDukeNukem/DukeNukemTaunt15.ogg"
+player/duke/taunt16 "Sounds/QCDEDukeNukem/DukeNukemTaunt16.ogg"
+player/duke/taunt17 "Sounds/QCDEDukeNukem/DukeNukemTaunt17.ogg"
+player/duke/taunt18 "Sounds/QCDEDukeNukem/DukeNukemTaunt18.ogg"
+player/duke/taunt19 "Sounds/QCDEDukeNukem/DukeNukemTaunt19.ogg"
+player/duke/taunt20 "Sounds/QCDEDukeNukem/DukeNukemTaunt20.ogg"
+player/duke/taunt21 "Sounds/QCDEDukeNukem/DukeNukemTaunt21.ogg"
+player/duke/taunt22 "Sounds/QCDEDukeNukem/DukeNukemTaunt22.ogg"
+player/duke/taunt23 "Sounds/QCDEDukeNukem/DukeNukemTauntRare.ogg"
+
+$random player/duke/pain {player/duke/pain1 player/duke/pain2 player/duke/pain3 player/duke/pain4 player/duke/pain5}
+player/duke/pain1 "Sounds/QCDEDukeNukem/DukeNukemPain025.ogg"
+player/duke/pain2 "Sounds/QCDEDukeNukem/DukeNukemPain050.ogg"
+player/duke/pain3 "Sounds/QCDEDukeNukem/DukeNukemPain075.ogg"
+player/duke/pain4 "Sounds/QCDEDukeNukem/DukeNukemPain100.ogg"
+player/duke/pain5 "Sounds/QCDEDukeNukem/DukeNukemPain100r.ogg"
+
+player/duke/death "Sounds/QCDEDukeNukem/DukeNukemDeath.ogg"
+player/duke/xdeath "Sounds/QCDEDukeNukem/DukeNukemXdeath.ogg"
+player/duke/land "Sounds/QCDEDukeNukem/DukeNukemGrunt.ogg"
+$random player/duke/meds {player/duke/oof1 player/duke/oof2}
+player/duke/oof1 "Sounds/QCDEDukeNukem/DukeNukemOof.ogg"
+player/duke/oof2 "Sounds/QCDEDukeNukem/DukeNukemOofRare.ogg"
