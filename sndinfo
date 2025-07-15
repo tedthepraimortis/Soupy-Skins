@@ -395,3 +395,34 @@ player/duke/land "Sounds/QCDEDukeNukem/DukeNukemGrunt.ogg"
 $random player/duke/meds {player/duke/oof1 player/duke/oof2}
 player/duke/oof1 "Sounds/QCDEDukeNukem/DukeNukemOof.ogg"
 player/duke/oof2 "Sounds/QCDEDukeNukem/DukeNukemOofRare.ogg"
+
+// Galen
+player/galen/taunts {player/galen/taunt1 player/galen/taunt2 player/galen/taunt3 player/galen/taunt4 player/galen/taunt5 player/galen/taunt6 player/galen/taunt7 player/galen/taunt8 player/galen/taunt9 player/galen/taunt10 player/galen/taunt11 player/galen/taunt12 player/galen/taunt13 player/galen/taunt14 player/galen/taunt15 }
+player/galen/taunt1 "Sounds/QCDEGalen/GalenTaunt1.ogg"
+player/galen/taunt2 "Sounds/QCDEGalen/GalenTaunt2.ogg"
+player/galen/taunt3 "Sounds/QCDEGalen/GalenTaunt3.ogg"
+player/galen/taunt4 "Sounds/QCDEGalen/GalenTaunt4.ogg"
+player/galen/taunt5 "Sounds/QCDEGalen/GalenTaunt5.ogg"
+player/galen/taunt6 "Sounds/QCDEGalen/GalenTaunt6.ogg"
+player/galen/taunt7 "Sounds/QCDEGalen/GalenTaunt7.ogg"
+player/galen/taunt8 "Sounds/QCDEGalen/GalenTaunt8.ogg"
+player/galen/taunt9 "Sounds/QCDEGalen/GalenTaunt9.ogg"
+player/galen/taunt10 "Sounds/QCDEGalen/GalenTaunt10.ogg"
+player/galen/taunt11 "Sounds/QCDEGalen/GalenTaunt11.ogg"
+player/galen/taunt12 "Sounds/QCDEGalen/GalenTaunt12.ogg"
+player/galen/taunt13 "Sounds/QCDEGalen/GalenTaunt13.ogg"
+player/galen/taunt14 "Sounds/QCDEGalen/GalenTaunt14.ogg"
+player/galen/taunt15 "Sounds/QCDEGalen/GalenTaunt15.ogg"
+
+$alias player/galen/xdeath player/galen/death
+$random player/galen/death {player/galen/death1 player/galen/death2}
+player/galen/death1 "Sounds/QCDEGalen/GalenDeath1.ogg"
+player/galen/death2 "Sounds/QCDEGalen/GalenDeath2.ogg"
+
+player/galen/land "Sounds/QCDEGalen/GalenGrunt.ogg"
+player/galen/meds "Sounds/QCDEGalen/GalenOof.ogg"
+$random player/galen/pain {player/galen/pain1 player/galen/pain2 player/galen/pain3 player/galen/pain4}
+player/galen/pain1 "Sounds/QCDEGalen/GalenPain025.ogg"
+player/galen/pain2 "Sounds/QCDEGalen/GalenPain050.ogg"
+player/galen/pain3 "Sounds/QCDEGalen/GalenPain075.ogg"
+player/galen/pain4 "Sounds/QCDEGalen/GalenPain100.ogg"
