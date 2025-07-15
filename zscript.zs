@@ -96,28 +96,6 @@ class PowersuitCygnis : HDSkin
 	}
 }
 
-// Not yet.
-/*class Gardevoir : HDSkin
-{
-	Default
-	{
-		hdskin.TauntSound "player/gardevoir/taunt";
-		hdskin.XDeathSound "player/gardevoir/xdeath";
-		hdskin.GruntSound "player/gardevoir/grunt";
-		hdskin.LandSound "player/gardevoir/land";
-		hdskin.MedSound "player/gardevoir/meds";
-		hdskin.SoundClass "gardevoir";
-		DeathSound "player/gardevoir/death";
-		PainSound "player/gardevoir/pain";
-		hdskin.Mug "GDV";
-	}
-	states{
-	spawn:GARD A 0;stop;
-	crouch:GRDC A 0;stop;
-	fist:SHTF A 0;stop;
-	}
-}*/
-
 class PirateDoomguy : HDSkin
 {
 	Default
