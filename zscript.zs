@@ -148,22 +148,6 @@ class FreedoomGuy : HDSkin
 	}
 }
 
-class CygnisSounds : HDSkin
-{
-	Default
-	{
-		hdskin.TauntSound "player/guncaster/taunt";
-		hdskin.XDeathSound "player/guncaster/xdeath";
-		hdskin.GruntSound "player/guncaster/grunt";
-		hdskin.LandSound "player/guncaster/land";
-		hdskin.MedSound "player/guncaster/meds";
-		hdskin.stepsound "player/guncaster/footsteps";
-		hdskin.stepsoundwet "player/guncaster/footstepswet";
-		hdskin.SoundClass "CygnisSounds";
-		DeathSound "player/guncaster/death";
-		PainSound "player/guncaster/pain";
-	}
-}
 class SabreanUnscaled : HDSkin{
 	default{
 		Scale 0.35;
