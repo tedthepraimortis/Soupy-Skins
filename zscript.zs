@@ -169,8 +169,8 @@ class SabreanUnscaled : HDSkin{
 		Scale 0.35;
 	}
 	states{
-	spawn:walk A 0;stop;
-	crouch:walk A 0;stop;
+	spawn:SABW A 0;stop;
+	crouch:SABW A 0;stop;
 	fist:SHTF A 0;stop;
 	}
 }
