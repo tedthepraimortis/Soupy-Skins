@@ -210,3 +210,20 @@ class QCDECaleb : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDECorvus : HDSkin{
+	Default{
+	hdskin.SoundClass "QCDECorvus";
+	hdskin.TauntSound "player/corvus/taunts";
+	hdskin.XDeathSound "player/corvus/xdeath";
+	hdskin.LandSound "player/corvus/land";
+	hdskin.MedSound "player/corvus/meds";
+	DeathSound "player/corvus/death";
+	PainSound "player/corvus/pain";
+	}
+	states{
+	spawn:QP03 A 0;stop;
+	crouch:QP03 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}

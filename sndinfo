@@ -305,3 +305,29 @@ player/caleb/death3 "Sounds/QCDECaleb/DEATH3.ogg"
 $random player/caleb/xdeath {player/caleb/xdeath1 player/caleb/xdeath2}
 player/caleb/xdeath1 "Sounds/QCDECaleb/XDEATH1.ogg"
 player/caleb/xdeath2 "Sounds/QCDECaleb/XDEATH2.ogg"
+
+// Corvus
+$random player/corvus/taunts {player/corvus/taunt1 player/corvus/taunt2 player/corvus/taunt3 player/corvus/taunt4 player/corvus/taunt5 player/corvus/taunt6 player/corvus/taunt7 player/corvus/taunt8 player/corvus/taunt9 player/corvus/taunt10 player/corvus/taunt11 player/corvus/taunt12 player/corvus/taunt13 }
+player/corvus/taunt1 "Sounds/QCDECorvus/Taunt1.ogg"
+player/corvus/taunt2 "Sounds/QCDECorvus/Taunt2.ogg"
+player/corvus/taunt3 "Sounds/QCDECorvus/Taunt3.ogg"
+player/corvus/taunt4 "Sounds/QCDECorvus/Taunt4.ogg"
+player/corvus/taunt5 "Sounds/QCDECorvus/Taunt5.ogg"
+player/corvus/taunt6 "Sounds/QCDECorvus/Taunt6.ogg"
+player/corvus/taunt7 "Sounds/QCDECorvus/Taunt7.ogg"
+player/corvus/taunt8 "Sounds/QCDECorvus/Taunt8.ogg"
+player/corvus/taunt9 "Sounds/QCDECorvus/Taunt9.ogg"
+player/corvus/taunt10 "Sounds/QCDECorvus/Taunt10.ogg"
+player/corvus/taunt11 "Sounds/QCDECorvus/Taunt11.ogg"
+player/corvus/taunt12 "Sounds/QCDECorvus/Taunt12.ogg"
+player/corvus/taunt13 "Sounds/QCDECorvus/Taunt13.ogg"
+
+player/corvus/xdeath "Sounds/QCDECorvus/Xdeath.ogg"
+player/corvus/death "Sounds/QCDECorvus/Death.ogg"
+player/corvus/land "Sounds/QCDECorvus/Land.ogg"
+
+$random player/corvus/pain {player/corvus/pain1 player/corvus/pain2}
+player/corvus/pain1 "Sounds/QCDECorvus/Pain1.ogg"
+player/corvus/pain2 "Sounds/QCDECorvus/Pain2.ogg"
+
+player/corvus/meds "Sounds/QCDECorvus/Oof.ogg"
