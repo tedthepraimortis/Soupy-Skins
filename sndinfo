@@ -331,3 +331,27 @@ player/corvus/pain1 "Sounds/QCDECorvus/Pain1.ogg"
 player/corvus/pain2 "Sounds/QCDECorvus/Pain2.ogg"
 
 player/corvus/meds "Sounds/QCDECorvus/Oof.ogg"
+
+// Doom Slayer
+$random player/doomslayer/taunts {player/doomslayer/taunt1 player/doomslayer/taunt2 player/doomslayer/taunt3 player/doomslayer/taunt4 player/doomslayer/taunt5 player/doomslayer/taunt6 player/doomslayer/taunt7 player/doomslayer/taunt8 player/doomslayer/taunt9 player/doomslayer/taunt10 player/doomslayer/taunt11 player/doomslayer/taunt12 player/doomslayer/taunt13}
+player/doomslayer/taunt1 "Sounds/QCDEDoomSlayer/Taunt1.ogg"
+player/doomslayer/taunt2 "Sounds/QCDEDoomSlayer/Taunt2.ogg"
+player/doomslayer/taunt3 "Sounds/QCDEDoomSlayer/Taunt3.ogg"
+player/doomslayer/taunt4 "Sounds/QCDEDoomSlayer/Taunt4.ogg"
+player/doomslayer/taunt5 "Sounds/QCDEDoomSlayer/Taunt5.ogg"
+player/doomslayer/taunt6 "Sounds/QCDEDoomSlayer/Taunt6.ogg"
+player/doomslayer/taunt7 "Sounds/QCDEDoomSlayer/Taunt7.ogg"
+player/doomslayer/taunt8 "Sounds/QCDEDoomSlayer/Taunt8.ogg"
+player/doomslayer/taunt9 "Sounds/QCDEDoomSlayer/Taunt9.ogg"
+player/doomslayer/taunt10 "Sounds/QCDEDoomSlayer/Taunt10.ogg"
+player/doomslayer/taunt11 "Sounds/QCDEDoomSlayer/Taunt11.ogg"
+player/doomslayer/taunt12 "Sounds/QCDEDoomSlayer/Taunt12.ogg"
+player/doomslayer/taunt13 "Sounds/QCDEDoomSlayer/Taunt13.ogg"
+
+$random player/doomslayer/xdeath {player/doomslayer/xdeath1 player/doomslayer/xdeath2 player/doomslayer/xdeath3}
+player/doomslayer/xdeath1 "Sounds/QCDEDoomSlayer/XDeath1.ogg" 
+player/doomslayer/xdeath2 "Sounds/QCDEDoomSlayer/XDeath2.ogg"
+player/doomslayer/xdeath3 "Sounds/QCDEDoomSlayer/XDeath3.ogg"
+
+$alias player/doomslayer/death player/doomslayer/xdeath
+player/doomslayer/meds "Sounds/QCDEDoomSlayer/Oof.ogg"

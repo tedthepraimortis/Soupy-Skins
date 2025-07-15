@@ -227,3 +227,19 @@ class QCDECorvus : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEDoomSlayer : HDSkin{
+	Default{
+	hdskin.SoundClass "QCDEDoomSlayer";
+	hdskin.TauntSound "player/doomslayer/taunts";
+	hdskin.XDeathSound "player/doomslayer/xdeath";
+	hdskin.MedSound "player/doomslayer/meds";
+	DeathSound "player/doomslayer/death";
+	PainSound "player/doomslayer/pain";
+	}
+	states{
+	spawn:QP02 A 0;stop;
+	crouch:QP02 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
