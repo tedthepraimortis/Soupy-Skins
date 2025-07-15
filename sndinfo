@@ -207,6 +207,10 @@ $random player/countrycide/taunt
 	player/countrycide/taunt1 player/countrycide/taunt2 player/countrycide/taunt3
 }
 
+// -----
+// QCDE Skins
+// -----
+
 // Sam
 // Taunts
 $random player/sam/taunts {player/sam/taunt1 player/sam/taunt2 player/sam/taunt3 player/sam/taunt4 player/sam/taunt5 player/sam/taunt6 player/sam/taunt7 player/sam/taunt8 player/sam/taunt9 player/sam/taunt10 player/sam/taunt11 player/sam/taunt12 player/sam/taunt13 player/sam/taunt14 player/sam/taunt15 player/sam/taunt16 player/sam/taunt17 player/sam/taunt18 player/sam/taunt19 player/sam/taunt20 player/sam/taunt21 player/sam/taunt22}
@@ -249,8 +253,55 @@ player/sam/pain1 "Sounds/Sam/Pain/sam_pain1.ogg"
 player/sam/pain2 "Sounds/Sam/Pain/sam_pain2.ogg"
 player/sam/pain3 "Sounds/Sam/Pain/sam_pain3.ogg"
 
-//thanks ted
 // Jump
 $random player/sam/jump {player/sam/jump1 player/sam/jump2}
 player/sam/jump1 "sounds/sam/jump/sam_jump1.ogg"
 player/sam/jump2 "sounds/sam/jump/sam_jump2.ogg"
+
+// Caleb
+$random player/caleb/taunts {player/caleb/taunt1 player/caleb/taunt2 player/caleb/taunt3 player/caleb/taunt4 player/caleb/taunt5 player/caleb/taunt6 player/caleb/taunt7 player/caleb/taunt8 player/caleb/taunt9 player/caleb/taunt10 player/caleb/taunt11 player/caleb/taunt12 player/caleb/taunt13 player/caleb/taunt14 player/caleb/taunt15 player/caleb/taunt16 player/caleb/taunt17 player/caleb/taunt18 player/caleb/taunt19 }
+player/caleb/taunt1 "Sounds/QCDECaleb/Taunt1.ogg"
+player/caleb/taunt2 "Sounds/QCDECaleb/Taunt2.ogg"
+player/caleb/taunt3 "Sounds/QCDECaleb/Taunt3.ogg"
+player/caleb/taunt4 "Sounds/QCDECaleb/Taunt4.ogg"
+player/caleb/taunt5 "Sounds/QCDECaleb/Taunt5.ogg"
+player/caleb/taunt6 "Sounds/QCDECaleb/Taunt6.ogg"
+player/caleb/taunt7 "Sounds/QCDECaleb/Taunt7.ogg"
+player/caleb/taunt8 "Sounds/QCDECaleb/Taunt8.ogg"
+player/caleb/taunt9 "Sounds/QCDECaleb/Taunt9.ogg"
+player/caleb/taunt10 "Sounds/QCDECaleb/Taunt10.ogg"
+player/caleb/taunt11 "Sounds/QCDECaleb/Taunt11.ogg"
+player/caleb/taunt12 "Sounds/QCDECaleb/Taunt12.ogg"
+player/caleb/taunt13 "Sounds/QCDECaleb/Taunt13.ogg"
+player/caleb/taunt14 "Sounds/QCDECaleb/Taunt14.ogg"
+player/caleb/taunt15 "Sounds/QCDECaleb/Taunt15.ogg"
+player/caleb/taunt16 "Sounds/QCDECaleb/Taunt16.ogg"
+player/caleb/taunt17 "Sounds/QCDECaleb/Taunt17.ogg"
+player/caleb/taunt18 "Sounds/QCDECaleb/Taunt18.ogg"
+player/caleb/taunt19 "Sounds/QCDECaleb/Taunt19.ogg"
+
+$random player/caleb/pain {player/caleb/pain1 player/caleb/pain2 player/caleb/pain3 player/caleb/pain4 player/caleb/pain5 player/caleb/pain6 player/caleb/pain7 player/caleb/pain8 player/caleb/pain9 player/caleb/pain10 player/caleb/pain11 player/caleb/pain12 }
+player/caleb/pain1 "Sounds/QCDECaleb/PAINA1.ogg"
+player/caleb/pain2 "Sounds/QCDECaleb/PAINA1.ogg"
+player/caleb/pain3 "Sounds/QCDECaleb/PAINA1.ogg"
+player/caleb/pain4 "Sounds/QCDECaleb/PAINB1.ogg"
+player/caleb/pain5 "Sounds/QCDECaleb/PAINB2.ogg"
+player/caleb/pain6 "Sounds/QCDECaleb/PAINB3.ogg"
+player/caleb/pain7 "Sounds/QCDECaleb/PAINC1.ogg"
+player/caleb/pain8 "Sounds/QCDECaleb/PAINC2.ogg"
+player/caleb/pain9 "Sounds/QCDECaleb/PAINC3.ogg"
+player/caleb/pain10 "Sounds/QCDECaleb/PAIND1.ogg"
+player/caleb/pain11 "Sounds/QCDECaleb/PAIND2.ogg"
+player/caleb/pain12 "Sounds/QCDECaleb/PAIND3.ogg"
+
+player/caleb/land "Sounds/QCDECaleb/Jump.ogg"
+player/caleb/meds "Sounds/QCDECaleb/OOF.ogg"
+
+$random player/caleb/death {player/caleb/death1 player/caleb/death2 player/caleb/death3}
+player/caleb/death1 "Sounds/QCDECaleb/DEATH1.ogg"
+player/caleb/death2 "Sounds/QCDECaleb/DEATH2.ogg"
+player/caleb/death3 "Sounds/QCDECaleb/DEATH3.ogg"
+
+$random player/caleb/xdeath {player/caleb/xdeath1 player/caleb/xdeath2}
+player/caleb/xdeath1 "Sounds/QCDECaleb/XDEATH1.ogg"
+player/caleb/xdeath2 "Sounds/QCDECaleb/XDEATH2.ogg"

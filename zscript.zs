@@ -192,3 +192,21 @@ class QCDESam : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDECaleb : HDSkin{
+	Default{
+	Scale 0.5;
+	hdskin.SoundClass "QCDECaleb";
+	hdskin.TauntSound "player/caleb/taunts";
+	hdskin.XDeathSound "player/caleb/xdeath";
+	hdskin.LandSound "player/caleb/land";
+	hdskin.MedSound "player/caleb/meds";
+	DeathSound "player/caleb/death";
+	PainSound "player/caleb/pain";
+	}
+	states{
+	spawn:QP05 A 0;stop;
+	crouch:QP05 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
