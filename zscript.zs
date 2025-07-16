@@ -325,3 +325,21 @@ class QCDEPainkiller : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDERanger : HDSkin{
+	Default{
+	Scale 0.75;
+	hdskin.SoundClass "QCDERanger";
+	hdskin.TauntSound "player/Ranger/taunts";
+	hdskin.XDeathSound "player/Ranger/xdeath";
+	hdskin.MedSound "player/Ranger/meds";
+	hdskin.LandSound "player/Ranger/land";
+	DeathSound "player/Ranger/death";
+	PainSound "player/Ranger/pain";
+	}
+	states{
+	spawn:QP01 A 0;stop;
+	crouch:QP01 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}

@@ -565,3 +565,31 @@ player/painkiller/pain1 "Sounds/QCDEPainkiller/PainkillerPain025.ogg"
 player/painkiller/pain2 "Sounds/QCDEPainkiller/PainkillerPain050.ogg"
 player/painkiller/pain3 "Sounds/QCDEPainkiller/PainkillerPain075.ogg"
 player/painkiller/pain4 "Sounds/QCDEPainkiller/PainkillerPain100.ogg"
+
+// Ranger
+$random player/ranger/taunts {player/ranger/taunt1 player/ranger/taunt2 player/ranger/taunt3 player/ranger/taunt4 player/ranger/taunt5 player/ranger/taunt6 player/ranger/taunt7 player/ranger/taunt8 player/ranger/taunt9 player/ranger/taunt10 player/ranger/taunt11 player/ranger/taunt12 player/ranger/taunt13 player/ranger/taunt14}
+player/ranger/taunt1 "Sounds/QCDERanger/RangerTaunt1.ogg"
+player/ranger/taunt2 "Sounds/QCDERanger/RangerTaunt2.ogg"
+player/ranger/taunt3 "Sounds/QCDERanger/RangerTaunt3.ogg"
+player/ranger/taunt4 "Sounds/QCDERanger/RangerTaunt4.ogg"
+player/ranger/taunt5 "Sounds/QCDERanger/RangerTaunt5.ogg"
+player/ranger/taunt6 "Sounds/QCDERanger/RangerTaunt6.ogg"
+player/ranger/taunt7 "Sounds/QCDERanger/RangerTaunt7.ogg"
+player/ranger/taunt8 "Sounds/QCDERanger/RangerTaunt8.ogg"
+player/ranger/taunt9 "Sounds/QCDERanger/RangerTaunt9.ogg"
+player/ranger/taunt10 "Sounds/QCDERanger/RangerTaunt10.ogg"
+player/ranger/taunt11 "Sounds/QCDERanger/RangerTaunt11.ogg"
+player/ranger/taunt12 "Sounds/QCDERanger/RangerTaunt12.ogg"
+player/ranger/taunt13 "Sounds/QCDERanger/RangerTaunt13.ogg"
+player/ranger/taunt14 "Sounds/QCDERanger/RangerTaunt14.ogg"
+
+player/ranger/xdeath "Sounds/QCDERanger/RangerXdeath.ogg"
+player/ranger/death "Sounds/QCDERanger/RangerDeath.ogg"
+player/ranger/meds "Sounds/QCDERanger/RangerOof.ogg"
+player/ranger/land "Sounds/QCDERanger/RangerLand.ogg"
+
+$random player/ranger/pain {player/ranger/pain1 player/ranger/pain2 player/ranger/pain3 player/ranger/pain4}
+player/ranger/pain1 "Sounds/QCDERanger/RangerPain025.ogg"
+player/ranger/pain2 "Sounds/QCDERanger/RangerPain050.ogg"
+player/ranger/pain3 "Sounds/QCDERanger/RangerPain075.ogg"
+player/ranger/pain4 "Sounds/QCDERanger/RangerPain100.ogg"
