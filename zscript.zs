@@ -360,3 +360,20 @@ class QCDESarge : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEZedek : HDSkin{
+	Default{
+	Scale 0.75;
+	hdskin.SoundClass "QCDEZedek";
+	hdskin.TauntSound "player/Zedek/taunts";
+	hdskin.XDeathSound "player/Zedek/xdeath";
+	hdskin.MedSound "player/Zedek/meds";
+	DeathSound "player/Zedek/death";
+	PainSound "player/Zedek/pain";
+	}
+	states{
+	spawn:QP08 A 0;stop;
+	crouch:QP08 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
