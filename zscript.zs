@@ -154,7 +154,7 @@ class SabreanUnscaled : HDSkin{
 	}
 	states{
 	spawn:SABW A 0;stop;
-	crouch:SABW A 0;stop;
+	crouch:SABC A 0;stop;
 	fist:SHTF A 0;stop;
 	}
 }
