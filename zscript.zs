@@ -343,3 +343,20 @@ class QCDERanger : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDESarge : HDSkin{
+	Default{
+	Scale 0.75;
+	hdskin.SoundClass "QCDESarge";
+	hdskin.TauntSound "player/sarge/taunts";
+	hdskin.XDeathSound "player/sarge/xdeath";
+	hdskin.MedSound "player/sarge/meds";
+	DeathSound "player/sarge/death";
+	PainSound "player/sarge/pain";
+	}
+	states{
+	spawn:QP17 A 0;stop;
+	crouch:QP17 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}

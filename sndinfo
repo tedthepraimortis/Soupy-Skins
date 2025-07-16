@@ -593,3 +593,34 @@ player/ranger/pain1 "Sounds/QCDERanger/RangerPain025.ogg"
 player/ranger/pain2 "Sounds/QCDERanger/RangerPain050.ogg"
 player/ranger/pain3 "Sounds/QCDERanger/RangerPain075.ogg"
 player/ranger/pain4 "Sounds/QCDERanger/RangerPain100.ogg"
+
+// Sarge
+$random player/sarge/taunts {player/sarge/taunt1 player/sarge/taunt2 player/sarge/taunt3 player/sarge/taunt4 player/sarge/taunt5 player/sarge/taunt6 player/sarge/taunt7 player/sarge/taunt8 player/sarge/taunt9 player/sarge/taunt10 player/sarge/taunt11 player/sarge/taunt12 player/sarge/taunt13 player/sarge/taunt14 player/sarge/taunt15 player/sarge/taunt16}
+player/sarge/taunt1 "Sounds/QCDESarge/SargeTaunt1.ogg"
+player/sarge/taunt2 "Sounds/QCDESarge/SargeTaunt2.ogg"
+player/sarge/taunt3 "Sounds/QCDESarge/SargeTaunt3.ogg"
+player/sarge/taunt4 "Sounds/QCDESarge/SargeTaunt4.ogg"
+player/sarge/taunt5 "Sounds/QCDESarge/SargeTaunt5.ogg"
+player/sarge/taunt6 "Sounds/QCDESarge/SargeTaunt6.ogg"
+player/sarge/taunt7 "Sounds/QCDESarge/SargeTaunt7.ogg"
+player/sarge/taunt8 "Sounds/QCDESarge/SargeTaunt8.ogg"
+player/sarge/taunt9 "Sounds/QCDESarge/SargeTaunt9.ogg"
+player/sarge/taunt10 "Sounds/QCDESarge/SargeTaunt10.ogg"
+player/sarge/taunt11 "Sounds/QCDESarge/SargeTaunt11.ogg"
+player/sarge/taunt12 "Sounds/QCDESarge/SargeTaunt12.ogg"
+player/sarge/taunt13 "Sounds/QCDESarge/SargeTaunt13.ogg"
+player/sarge/taunt14 "Sounds/QCDESarge/SargeTaunt14.ogg"
+player/sarge/taunt15 "Sounds/QCDESarge/SargeTaunt15.ogg"
+player/sarge/taunt16 "Sounds/QCDESarge/SargeTaunt16.ogg"
+
+player/sarge/xdeath "Sounds/QCDESarge/SargeXDeath.ogg"
+$random player/sarge/death {player/sarge/death1 player/sarge/death2}
+player/sarge/death1 "Sounds/QCDESarge/SargeDeath1.ogg"
+player/sarge/death2 "Sounds/QCDESarge/SargeDeath2.ogg"
+player/sarge/meds "Sounds/QCDESarge/SargeOof.ogg"
+
+$random player/sarge/pain {player/sarge/pain1 player/sarge/pain2 player/sarge/pain3 player/sarge/pain4} 
+player/sarge/pain1 "Sounds/QCDESarge/SargePain025.ogg" 
+player/sarge/pain2 "Sounds/QCDESarge/SargePain050.ogg" 
+player/sarge/pain3 "Sounds/QCDESarge/SargePain075.ogg" 
+player/sarge/pain4 "Sounds/QCDESarge/SargePain100.ogg"
