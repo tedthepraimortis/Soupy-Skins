@@ -497,3 +497,32 @@ player/major/pain1 "Sounds/QCDEMajor/MajorPain025.ogg"
 player/major/pain2 "Sounds/QCDEMajor/MajorPain050.ogg"
 player/major/pain3 "Sounds/QCDEMajor/MajorPain075.ogg"
 player/major/pain4 "Sounds/QCDEMajor/MajorPain100.ogg"
+
+// Menelkir
+$random player/menelkir/taunts {player/Menelkir/taunt1 player/Menelkir/taunt2 player/Menelkir/taunt3 player/Menelkir/taunt4 player/Menelkir/taunt5 player/Menelkir/taunt6 player/Menelkir/taunt7 player/Menelkir/taunt8 player/Menelkir/taunt9 player/Menelkir/taunt10 player/Menelkir/taunt11}
+player/menelkir/taunt1 "Sounds/QCDEMenelkir/MenelkirTaunt1.ogg"
+player/menelkir/taunt2 "Sounds/QCDEMenelkir/MenelkirTaunt2.ogg"
+player/menelkir/taunt3 "Sounds/QCDEMenelkir/MenelkirTaunt3.ogg"
+player/menelkir/taunt4 "Sounds/QCDEMenelkir/MenelkirTaunt4.ogg"
+player/menelkir/taunt5 "Sounds/QCDEMenelkir/MenelkirTaunt5.ogg"
+player/menelkir/taunt6 "Sounds/QCDEMenelkir/MenelkirTaunt6.ogg"
+player/menelkir/taunt7 "Sounds/QCDEMenelkir/MenelkirTaunt7.ogg"
+player/menelkir/taunt8 "Sounds/QCDEMenelkir/MenelkirTaunt8.ogg"
+player/menelkir/taunt9 "Sounds/QCDEMenelkir/MenelkirTaunt9.ogg"
+player/menelkir/taunt10 "Sounds/QCDEMenelkir/MenelkirTaunt10.ogg"
+player/menelkir/taunt11 "Sounds/QCDEMenelkir/MenelkirTaunt11.ogg"
+
+player/menelkir/xdeath "Sounds/QCDEMenelkir/Xdeath.ogg"
+$random player/menelkir/death {player/menelkir/death1 player/menelkir/death2 player/menelkir/death3 player/menelkir/death4}
+player/menelkir/death1 "Sounds/QCDEMenelkir/Death.ogg"
+player/menelkir/death2 "Sounds/QCDEMenelkir/Death1.ogg"
+player/menelkir/death3 "Sounds/QCDEMenelkir/Death2.ogg"
+player/menelkir/death4 "Sounds/QCDEMenelkir/Death3.ogg"
+player/menelkir/meds "Sounds/QCDEMenelkir/Oof.ogg"
+
+$random player/menelkir/pain {player/menelkir/pain1 player/menelkir/pain2 player/menelkir/pain3 player/menelkir/pain4 player/menelkir/pain5}
+player/menelkir/pain1 "Sounds/QCDEMenelkir/Pain.ogg"
+player/menelkir/pain2 "Sounds/QCDEMenelkir/Pain25.ogg"
+player/menelkir/pain3 "Sounds/QCDEMenelkir/Pain50.ogg"
+player/menelkir/pain4 "Sounds/QCDEMenelkir/Pain75.ogg"
+player/menelkir/pain5 "Sounds/QCDEMenelkir/Pain100.ogg"

@@ -291,3 +291,20 @@ class QCDEMajor : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEMenelkir : HDSkin{
+	Default{
+	Scale 0.85;
+	hdskin.SoundClass "QCDEMenelkir";
+	hdskin.TauntSound "player/Menelkir/taunts";
+	hdskin.XDeathSound "player/Menelkir/xdeath";
+	hdskin.MedSound "player/Menelkir/meds";
+	DeathSound "player/Menelkir/death";
+	PainSound "player/Menelkir/pain";
+	}
+	states{
+	spawn:QP06 A 0;stop;
+	crouch:QP06 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
