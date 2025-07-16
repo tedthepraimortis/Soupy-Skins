@@ -274,3 +274,20 @@ class QCDEIntruder : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEMajor : HDSkin{
+	Default{
+	Scale 0.79;
+	hdskin.SoundClass "QCDEMajor";
+	hdskin.TauntSound "player/major/taunts";
+	hdskin.XDeathSound "player/major/xdeath";
+	hdskin.MedSound "player/major/meds";
+	DeathSound "player/major/death";
+	PainSound "player/major/pain";
+	}
+	states{
+	spawn:QP26 A 0;stop;
+	crouch:QP26 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}

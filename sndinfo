@@ -468,3 +468,32 @@ player/intruder/pain3 "Sounds/QCDEIntruder/IntruderPain075.ogg"
 player/intruder/pain4 "Sounds/QCDEIntruder/IntruderPain100a.ogg"
 player/intruder/pain5 "Sounds/QCDEIntruder/IntruderPain100b.ogg"
 player/intruder/pain6 "Sounds/QCDEIntruder/IntruderPain100c.ogg"
+
+// Major
+$random player/major/taunts {player/major/taunt1 player/major/taunt2 player/major/taunt3 player/major/taunt4 player/major/taunt5 player/major/taunt6 player/major/taunt7 player/major/taunt8 player/major/taunt9 player/major/taunt10 player/major/taunt11 player/major/taunt12 player/major/taunt13 player/major/taunt14 player/major/taunt15 player/major/taunt16}
+player/major/taunt1 "Sounds/QCDEMajor/MajorTaunt01.ogg"
+player/major/taunt2 "Sounds/QCDEMajor/MajorTaunt02.ogg"
+player/major/taunt3 "Sounds/QCDEMajor/MajorTaunt03.ogg"
+player/major/taunt4 "Sounds/QCDEMajor/MajorTaunt04.ogg"
+player/major/taunt5 "Sounds/QCDEMajor/MajorTaunt05.ogg"
+player/major/taunt6 "Sounds/QCDEMajor/MajorTaunt06.ogg"
+player/major/taunt7 "Sounds/QCDEMajor/MajorTaunt07.ogg"
+player/major/taunt8 "Sounds/QCDEMajor/MajorTaunt08.ogg"
+player/major/taunt9 "Sounds/QCDEMajor/MajorTaunt09.ogg"
+player/major/taunt10 "Sounds/QCDEMajor/MajorTaunt10.ogg"
+player/major/taunt11 "Sounds/QCDEMajor/MajorTaunt11.ogg"
+player/major/taunt12 "Sounds/QCDEMajor/MajorTaunt12.ogg"
+player/major/taunt13 "Sounds/QCDEMajor/MajorTaunt13.ogg"
+player/major/taunt14 "Sounds/QCDEMajor/MajorTaunt14.ogg"
+player/major/taunt15 "Sounds/QCDEMajor/MajorTaunt15.ogg"
+player/major/taunt16 "Sounds/QCDEMajor/MajorTaunt16.ogg"
+
+player/major/xdeath "Sounds/QCDEMajor/MajorXdeath.ogg"
+player/major/death "Sounds/QCDEMajor/MajorDeath.ogg"
+player/major/meds "Sounds/QCDEMajor/MajorOof.ogg"
+
+$random player/major/pain {player/major/pain1 player/major/pain2 player/major/pain3 player/major/pain4}
+player/major/pain1 "Sounds/QCDEMajor/MajorPain025.ogg"
+player/major/pain2 "Sounds/QCDEMajor/MajorPain050.ogg"
+player/major/pain3 "Sounds/QCDEMajor/MajorPain075.ogg"
+player/major/pain4 "Sounds/QCDEMajor/MajorPain100.ogg"
