@@ -257,3 +257,20 @@ class QCDEGalen : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEIntruder : HDSkin{
+	Default{
+	Scale 0.75;
+	hdskin.SoundClass "QCDEIntruder";
+	hdskin.TauntSound "player/intruder/taunts";
+	hdskin.XDeathSound "player/intruder/xdeath";
+	hdskin.MedSound "player/intruder/meds";
+	DeathSound "player/intruder/death";
+	PainSound "player/intruder/pain";
+	}
+	states{
+	spawn:QP31 A 0;stop;
+	crouch:QP31 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
