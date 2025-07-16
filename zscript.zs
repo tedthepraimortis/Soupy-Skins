@@ -308,3 +308,20 @@ class QCDEMenelkir : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class QCDEPainkiller : HDSkin{
+	Default{
+	Scale 0.75;
+	hdskin.SoundClass "QCDEPainkiller";
+	hdskin.TauntSound "player/painkiller/taunts";
+	hdskin.XDeathSound "player/painkiller/xdeath";
+	hdskin.MedSound "player/painkiller/meds";
+	DeathSound "player/painkiller/death";
+	PainSound "player/painkiller/pain";
+	}
+	states{
+	spawn:QP30 A 0;stop;
+	crouch:QP30 A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
