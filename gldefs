@@ -1,0 +1,85 @@
+
+brightmap sprite SABWA1
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWA1.png
+    DisableFullBright
+}
+
+brightmap sprite SABWA2
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWA2.png
+    DisableFullBright
+}
+
+brightmap sprite SABWA8
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWA8.png
+    DisableFullBright
+}
+
+brightmap sprite SABWB1
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWB1.png
+    DisableFullBright
+}
+
+brightmap sprite SABWB2
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWB2.png
+    DisableFullBright
+}
+
+brightmap sprite SABWB8
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWB8.png
+    DisableFullBright
+}
+
+brightmap sprite SABWC1
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWC1.png
+    DisableFullBright
+}
+
+brightmap sprite SABWC2
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWC2.png
+    DisableFullBright
+}
+
+brightmap sprite SABWC8
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWC8.png
+    DisableFullBright
+}
+
+brightmap sprite SABWD1
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWD1.png
+    DisableFullBright
+}
+
+brightmap sprite SABWD2
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWD2.png
+    DisableFullBright
+}
+
+brightmap sprite SABWD8
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWD8.png
+    DisableFullBright
+}
+
+
+brightmap sprite SABWE1
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWE1.png
+    DisableFullBright
+}
+
+brightmap sprite SABWE2
+{
+    map Sprites/SabreanUnscaled/Brightmaps/BMSABWE2.png
+    DisableFullBright
+}
