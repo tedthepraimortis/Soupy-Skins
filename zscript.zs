@@ -150,6 +150,7 @@ class FreedoomGuy : HDSkin
 
 class SabreanUnscaled : HDSkin{
 	default{
+		hdskin.Mug "SAB";
 		Scale 0.35;
 	}
 	states{
