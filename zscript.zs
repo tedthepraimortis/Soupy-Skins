@@ -160,6 +160,18 @@ class SabreanUnscaled : HDSkin{
 	}
 }
 
+class Viscous : HDSkin{
+	default{
+		hdskin.Mug "VIS";
+		Scale 0.25;
+	}
+	states{
+	spawn:VISC A 0;stop;
+	crouch:VISD A 0;stop;
+	fist:SHTF A 0;stop;
+	}
+}
+
 class QCDESam : HDSkin{
 	Default{
 	Scale 0.5;
