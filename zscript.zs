@@ -172,6 +172,18 @@ class Viscous : HDSkin{
 	}
 }
 
+class Seven : HDSkin{
+	default{
+		hdskin.Mug "SEV";
+		Scale 0.2;
+	}
+	states{
+	spawn:SEVN A 0;stop;
+	crouch:SEVN A 0;stop;
+	fist:SHTF A 0;stop;
+	}
+}
+
 class QCDESam : HDSkin{
 	Default{
 	Scale 0.5;
