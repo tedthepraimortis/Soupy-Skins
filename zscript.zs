@@ -160,6 +160,18 @@ class SabreanUnscaled : HDSkin{
 	}
 }
 
+class SabreanV2 : HDSkin{
+	default{
+		hdskin.Mug "SAB";
+		Scale 0.35;
+	}
+	states{
+	spawn:SV2W A 0;stop;
+	crouch:SV2C A 0;stop;
+	fist:SHTF A 0;stop;
+	}
+}
+
 class Viscous : HDSkin{
 	default{
 		hdskin.Mug "VIS";
@@ -179,7 +191,7 @@ class Seven : HDSkin{
 	}
 	states{
 	spawn:SEVN A 0;stop;
-	crouch:SEVN A 0;stop;
+	crouch:SEVC A 0;stop;
 	fist:SHTF A 0;stop;
 	}
 }
