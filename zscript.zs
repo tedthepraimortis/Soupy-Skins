@@ -162,7 +162,7 @@ class SabreanUnscaled : HDSkin{
 
 class SabreanV2 : HDSkin{
 	default{
-		hdskin.Mug "SAB";
+		hdskin.Mug "SV2";
 		Scale 0.35;
 	}
 	states{
