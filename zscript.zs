@@ -196,6 +196,18 @@ class Seven : HDSkin{
 	}
 }
 
+class RatKing : HDSkin{
+	default{
+		hdskin.Mug "RAT";
+		Scale 0.2;
+	}
+	states{
+	spawn:RATK A 0;stop;
+	crouch:RATC A 0;stop;
+	fist:SHTF A 0;stop;
+	}
+}
+
 class QCDESam : HDSkin{
 	Default{
 	Scale 0.5;
