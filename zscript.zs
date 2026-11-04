@@ -199,7 +199,7 @@ class Seven : HDSkin{
 class RatKing : HDSkin{
 	default{
 		hdskin.Mug "RAT";
-		Scale 0.2;
+		Scale 0.45;
 	}
 	states{
 	spawn:RATK A 0;stop;
