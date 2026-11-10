@@ -426,3 +426,14 @@ class QCDEZedek : HDSkin{
 	fist:shtf A 0;stop;
 	}
 }
+
+class Mynah : HDSkin{
+	Default{
+	Scale 0.45;
+	}
+	states{
+	spawn:mnhr A 0;stop;
+	crouch:mnhr A 0;stop;
+	fist:shtf A 0;stop;
+	}
+}
